@@ -1,0 +1,51 @@
+form div{
+    margin-bottom:20px
+  }
+  form{
+    width:300px;
+    margin: 170px auto;
+    padding:50px;
+    color: white;
+    font-weight: bold;
+    background:rgba(125, 125, 125, 0.32);
+    border-radius:10px;
+  }
+  body{
+    background: url('https://webneel.com/wallpaper/sites/default/files/images/07-2018/30-black-wallpaper-hd-strips.jpg') no-repeat;
+    background-size:cover;
+  }
+  .a{
+    display:flex;
+    
+  }
+  
+  .p{
+    margin-right:55px;
+    height:16px;
+    margin-top: 1px
+  }
+  input[type="submit"]{
+    width:90px;
+    height:30px;
+    background: rgba(70, 120, 122);
+    color:white;
+    transition: all 0.5s ease-in-out;
+    font-weight: bold;
+  }
+  input[type="reset"]{
+    width:90px;
+    height:30px;
+     background: rgba(70, 120, 122);
+    color:white;
+    transition: all 0.5s ease-in-out;
+    font-weight: bold;
+  }
+  input[type="submit"]:hover{
+    background: black;
+    transform: scale(1.1,1.1)
+  }
+  input[type="reset"]:hover{
+    background: black;
+    transform: scale(1.1,1.1)
+  }
+  
