@@ -5,13 +5,13 @@ form div{
     width:300px;
     margin: 170px auto;
     padding:50px;
-    color: white;
+    color: black;
     font-weight: bold;
     background:rgba(125, 125, 125, 0.5);
     border-radius:10px;
   }
   body{
-    background: url('https://webneel.com/wallpaper/sites/default/files/images/07-2018/30-black-wallpaper-hd-strips.jpg') no-repeat;
+    background: url('https://i.pinimg.com/originals/62/63/5b/62635bfd6f5c20e3666f27e015191bde.jpg') no-repeat;
     background-size:cover;
   }
   .a{
